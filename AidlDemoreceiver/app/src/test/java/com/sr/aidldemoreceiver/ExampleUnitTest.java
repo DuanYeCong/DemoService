@@ -1,4 +1,4 @@
-package com.sr.aidldemoreciver;
+package com.sr.aidldemoreceiver;
 
 import org.junit.Test;
 

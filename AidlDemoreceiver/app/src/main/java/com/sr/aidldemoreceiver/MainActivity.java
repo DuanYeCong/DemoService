@@ -1,4 +1,4 @@
-package com.sr.aidldemoreciver;
+package com.sr.aidldemoreceiver;
 
 import android.content.ComponentName;
 import android.content.Intent;
@@ -9,7 +9,6 @@ import android.os.RemoteException;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
-import android.widget.Toast;
 
 import com.sr.demoaidl.IMyAidlInterface;
 
